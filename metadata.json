@@ -1,0 +1,72 @@
+{
+  "siteId": "work-from-home-parenting-balance",
+  "generatedAt": "2026-06-12T16:23:54.921477",
+  "categories": [
+    "beginner-work-from-home-parenting-balance",
+    "advanced-work-from-home-parenting-balance",
+    "tips-work-from-home-parenting-balance",
+    "history-work-from-home-parenting-balance",
+    "trending-work-from-home-parenting-balance",
+    "tutorials-work-from-home-parenting-balance"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-work-from-home-parenting-balance",
+      "category_name": "Beginner Work-from-Home Parenting Balance"
+    },
+    {
+      "category_slug": "advanced-work-from-home-parenting-balance",
+      "category_name": "Advanced Work-from-Home Parenting Balance"
+    },
+    {
+      "category_slug": "tips-work-from-home-parenting-balance",
+      "category_name": "Work-from-Home Parenting Balance Tips"
+    },
+    {
+      "category_slug": "history-work-from-home-parenting-balance",
+      "category_name": "Work-from-Home Parenting Balance History"
+    },
+    {
+      "category_slug": "trending-work-from-home-parenting-balance",
+      "category_name": "Trending Work-from-Home Parenting Balance"
+    },
+    {
+      "category_slug": "tutorials-work-from-home-parenting-balance",
+      "category_name": "Work-from-Home Parenting Balance Tutorials"
+    }
+  ],
+  "articleCount": 108,
+  "design": {
+    "site_id": "work-from-home-parenting-balance",
+    "color_scheme": {
+      "name": "Forest Green",
+      "primary": "#166534",
+      "secondary": "#22c55e",
+      "accent": "#86efac",
+      "background": "#f0fdf4",
+      "text": "#14532d",
+      "light": "#dcfce7"
+    },
+    "font": {
+      "name": "Poppins",
+      "family": "'Poppins', sans-serif",
+      "import": "@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');"
+    },
+    "layout": "centered-wide",
+    "border_radius": "4px",
+    "box_shadow": "0 1px 3px rgba(0,0,0,0.1)",
+    "article_card_style": "grid",
+    "header_style": "classic",
+    "footer_style": "standard",
+    "modules": [
+      "popular-tags",
+      "trending-articles",
+      "stats-widget",
+      "category-highlights",
+      "newsletter-signup",
+      "recent-comments"
+    ],
+    "site_title": "Work-from-Home Parenting Balance Central",
+    "articles_per_row": 2
+  }
+}
